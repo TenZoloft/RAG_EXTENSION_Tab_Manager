@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "RAG Manager",
+  "version": "1.2",
+  "description": " RAG // Random Access Grouping // Group and ungroup Chrome Tabs simply and efficiently. 1 Click to grop and 2 to ungroup.",
+  "permissions": [
+    "tabs",
+    "tabGroups",
+    "contextMenus",
+    "scripting",
+    "windows"
+  ],
+  "background": {
+    "service_worker": "background.js"
+    },
+    "action": {
+        "default_title": "RAG Extension",
+        "default_icon": {
+        "16": "icons/icon16.bmp",
+        "48": "icons/icon48.bmp",
+        "128": "icons/icon128.bmp"
+        }
+        },
+        "icons": {
+        "16": "icons/icon16.bmp",
+        "48": "icons/icon48.bmp",
+        "128": "icons/icon128.bmp"
+        }
+
+}
