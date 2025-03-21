@@ -1,39 +1,48 @@
-# Title:
-RAG Extension 
+# RAG Extension
 
-# Version: 
-V1.2
+**Version:** V1.2  
+**Status:** Stable  
+**Chrome Review:** Pending  
+**GitHub Publish Date:** 20.03.2025  
+**Chrome Publish Date:** TBD  
+**Arthur:** UserName aka TenZoloft  
 
-# Status:
-Version: Stable
-Chrome: Pending Review
+---
 
-# Github Publish date:
-20.03.2025
+## 📦 Description
 
-# Chrome Publish date:
-TBD 
+**RAG // Random Access Grouping**  
+Group and ungroup Chrome tabs simply and efficiently.  
+➤ **1 click** to group ungrouped tabs  
+➤ **2 clicks** to ungroup the active group  
 
-# Auther: 
-UserName aka TenZoloft
+---
 
-# Discription: 
-RAG // Random Access Grouping // Group and ungroup Chrome Tabs simply and efficiently. 1 Click to group and 2 to ungroup. 
+## 🚀 Install Instructions
 
-# INSTALL
-1. Visit "chrome://extensions" from your Chrome browser in the top right if not already selected toggle the "Developer Mode" to ON. 
-2. Click the "Load Unpacked" button on the left-hand side of the screen. Choose the RAG folder (this repo) and select open. 
-3. View the extension details once loaded find "pin to toolbar" and toggle that switch. 
+1. Visit `chrome://extensions` in your Chrome browser  
+2. In the top-right corner, toggle **Developer Mode** to `ON`  
+3. Click **"Load Unpacked"**, navigate to the `RAG` folder (this repo), and click **Open**  
+4. Once loaded, click **"Details"**, find **"Pin to Toolbar"**, and toggle it `ON`
 
-# USAGE
-This extension is meant to be as simple as possible. Here are the core features for use. 
+---
 
-Click once on the extension icon --> Group all open & ungrouped tabs.
+## 🛠️ Usage
 
-Double click on the extension icon --> Ungroup ONLY ACTIVE tab group
+RAG Extension is designed to be simple and efficient.
 
-# Other features (context menu <-- right click icon)
-RAG Menu items:
-Collapse All RAGs 
-Collapse Current RAG 
-Delete Current RAG
+- **Single Click**: Groups all ungrouped tabs into one RAG  
+- **Double Click**: Ungroups only the **active tab group**
+
+---
+
+## 📋 Context Menu Features (Right-click the extension icon)
+
+**RAG Menu Items:**
+- 🔽 Collapse All RAGs  
+- 🔽 Collapse Current RAG  
+- ❌ Delete Current RAG  
+
+---
+
+Enjoy cleaner browsing with fewer clicks 🚀
